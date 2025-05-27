@@ -34,8 +34,7 @@ figcaption {
     border-width: 0px;
     border-left-width: 2px;
     border-right-width: 2px;*/
-    border-width: 2px;
-    
+    border: 2px, solid, navy;
 }
 a {
     text-decoration: none;
